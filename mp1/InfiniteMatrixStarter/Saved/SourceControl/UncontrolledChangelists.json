@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/meghnamavila/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/meghnamavila/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/meghnamavila/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/meghnamavila/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/meghnamavila/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/meghnamavila/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthScore_Widget.uasset",
+				"/Users/meghnamavila/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack.uasset",
+				"/Users/meghnamavila/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/UI_Widget.uasset",
+				"/Users/meghnamavila/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/meghnamavila/Downloads/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset"
+			]
+		}
+	]
+}
